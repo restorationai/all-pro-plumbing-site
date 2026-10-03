@@ -17,6 +17,7 @@ faq: [{"question": "What is the average cost of an emergency plumber call at 2 a
 published_at: "2026-09-24"
 services: ["emergency-plumbing", "burst-pipe-repair", "leak-detection"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** An emergency plumber call typically costs $150-$400 just to get a technician to your door after hours, on top of the actual repair. The total bill breaks into four layers: a call-out or trip fee, an after-hours rate multiplier, diagnostic time, and the repair itself. Knowing how each layer works lets you ask the right questions before you approve any work, and it helps you avoid the surprise at the bottom of the invoice.
 

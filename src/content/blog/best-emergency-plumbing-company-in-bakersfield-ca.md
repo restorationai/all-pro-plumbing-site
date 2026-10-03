@@ -17,6 +17,7 @@ faq: [{"question": "What should I do first when I have a plumbing emergency in B
 published_at: "2026-07-27"
 services: []
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** The best emergency plumbing company in Bakersfield, CA responds around the clock, holds a valid California contractor's license, and knows the local quirks, slab foundations, hard water scale, aging galvanized pipe in Oleander and East Bakersfield, that turn a simple call into a complicated one. All Pro Plumbing Heating and Air (license 960566) operates 24/7 across Bakersfield and Kern County, handling everything from burst pipes and slab leaks to sewer backups and gas line repairs.
 

@@ -17,6 +17,7 @@ faq: [{"question": "Is it rude not to tip a plumber?", "answer": "No. Tipping a 
 published_at: "2026-09-22"
 services: ["emergency-plumbing", "water-heater-installation"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** Tipping a plumber is never required or expected on a quoted invoice. On a genuinely tough job, such as a midnight emergency call, a water heater haul through a narrow hallway, or a full day in a hot attic, a $10-$20 cash tip or a cold drink is a normal and appreciated gesture. A detailed Google review naming the technician, however, does more lasting good for a small plumbing crew than almost anything else you can hand them.
 

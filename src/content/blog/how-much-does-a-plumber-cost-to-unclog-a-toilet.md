@@ -17,6 +17,7 @@ faq: [{"question": "How much does a plumber charge to unclog a toilet?", "answer
 published_at: "2026-09-20"
 services: ["toilet-faucet-repair", "drain-cleaning", "sewer-line-repair"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** A plumber costs roughly $100-$250 to auger a toilet clog from the bowl. If the clog is deeper in the branch drain, expect $200-$400. A pull-and-reset (where the toilet comes off the floor) runs $250-$500. If the clog turns out to be a main sewer line problem, you're looking at $300-$600 or more depending on access. After-hours calls add a premium on top of those ranges.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How do I find my main water shutoff if I've never looked for
 published_at: "2026-07-07"
 services: ["burst-pipe-repair", "emergency-plumbing"]
 rendered: true
+author: "Jack Bispo"
 ---
 Stop the water first, then worry about everything else. The moment a pipe bursts, your job is simple: shut off the water supply, get the electricity safe if water is spreading toward outlets or panels, and document the damage before you touch anything else. Those three moves, done in the right order in the first ten minutes, will limit how far a manageable repair spirals into a major renovation.
 

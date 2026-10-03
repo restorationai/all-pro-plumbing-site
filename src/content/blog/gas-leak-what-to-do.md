@@ -16,6 +16,7 @@ faq: [{"question": "Can I turn the gas back on myself after the utility shuts it
 published_at: "2026-06-19"
 services: ["gas-line-services"]
 rendered: true
+author: "Jack Bispo"
 ---
 If you smell gas inside your home, do one thing before anything else: get everyone out of the building immediately and move well away from it. Do not stop to grab your phone, your keys, or your pet. Once you are outside and a safe distance from the structure, call 911 or SoCalGas's 24-hour emergency line at 1-800-427-2200. The utility will send a crew to shut off the gas and confirm the scene is safe. Only after that point does calling a plumber for repair and pressure testing belong in the picture.
 

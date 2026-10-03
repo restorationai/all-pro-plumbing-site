@@ -16,6 +16,7 @@ faq: [{"question": "How do I know if my slab leak is on the hot-water side or th
 published_at: "2026-06-16"
 services: ["slab-leak-repair", "leak-detection"]
 rendered: true
+author: "Jack Bispo"
 ---
 A slab leak, a break or pinhole in the water lines running beneath your home's concrete foundation, can go undetected for months while silently eroding soil, warping flooring, and driving up your water bill. The seven signs below don't always appear together, and some are easy to dismiss as normal house quirks. Knowing what to look for lets you act before a slow drip becomes a structural problem. If you spot more than one of these at the same time, that combination is a strong signal to stop guessing and get a professional leak-detection inspection.
 

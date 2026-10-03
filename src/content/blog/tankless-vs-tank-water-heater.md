@@ -16,6 +16,7 @@ faq: [{"question": "Can a tankless water heater handle a large family's hot wate
 published_at: "2026-06-29"
 services: ["water-heater-installation"]
 rendered: true
+author: "Jack Bispo"
 ---
 The short answer: tankless water heaters cost more upfront but can save money over time and never run out of hot water mid-shower. Tank heaters cost less to buy and install, work with any home's existing setup, and are simpler to repair. Which one makes sense depends on how your household uses hot water, what your Bakersfield home's gas or electrical infrastructure looks like, and how long you plan to stay in the house. Neither is universally better, but one is almost certainly a better fit for your situation.
 

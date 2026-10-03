@@ -16,6 +16,7 @@ faq: [{"question": "Does the 50% rule apply to the cost of parts only, or total 
 published_at: "2026-06-26"
 services: ["furnace-repair", "furnace-installation"]
 rendered: true
+author: "Jack Bispo"
 ---
 ## The Short Answer: Repair If It Makes Financial Sense, Replace If It Doesn't
 

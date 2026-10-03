@@ -17,6 +17,7 @@ faq: [{"question": "How much does a plumber charge to install a toilet?", "answe
 published_at: "2026-08-10"
 services: ["toilet-faucet-repair"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** A licensed plumber charges $150–$350 in labor to swap a toilet, and the fixture itself runs $100–$600 depending on the model. Total installed cost for a standard replacement lands between $275 and $675 for most homes. If your toilet is running, rocking, or flushing weakly, a $25–$60 fill valve or flapper repair often fixes it, full replacement only wins when the porcelain is cracked, the toilet is pre-1994, or repairs have already been done twice.
 

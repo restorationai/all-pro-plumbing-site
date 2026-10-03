@@ -18,6 +18,7 @@ published_at: "2026-10-03"
 updated_at: "2026-10-03"
 services: []
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** Emergency plumbing in California usually starts with an after-hours trip or dispatch fee of $89 to $150, then labor runs $150 to $300 an hour, often at a 1.5x to 2x premium over daytime rates. A full repair, not just the service call, typically lands between $350 for a simple clogged line and $4,000 or more for a burst pipe behind a slab or a failed water heater that needs full replacement. The exact number depends on the time of night, the job itself, and how hard the problem is to reach.
 

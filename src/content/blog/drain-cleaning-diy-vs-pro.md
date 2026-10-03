@@ -16,6 +16,7 @@ faq: [{"question": "Can chemical drain cleaners damage my pipes if I use them re
 published_at: "2026-06-10"
 services: ["drain-cleaning"]
 rendered: true
+author: "Jack Bispo"
 ---
 Chemical drain cleaners are convenient, cheap, and almost always within reach under the kitchen sink, but they work reliably only on a narrow slice of clogs, and they can quietly make things worse when they don't. The short answer: if you have a slow drain caused by soap scum or a hair mat close to the drain opening, a store-bought product might clear it. If the clog is deeper, recurring, or involves grease buildup, tree roots, or a partial pipe collapse, a bottle of caustic gel is not going to fix it, and the chemicals you pour in still have to go somewhere.
 

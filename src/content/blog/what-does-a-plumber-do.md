@@ -17,6 +17,7 @@ faq: [{"question": "What is the difference between a plumber and a general contr
 published_at: "2026-09-18"
 services: ["emergency-plumbing", "drain-cleaning", "water-heater-repair", "sewer-line-repair", "leak-detection"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** A licensed plumber installs, repairs, and maintains the pipes, fixtures, and appliances that move water, waste, and gas through your home. That covers everything from a dripping faucet to a slab leak under your foundation. The work splits into five main categories: drains and sewers, water heaters, leak detection and repiping, gas lines, and fixtures. Some of that work requires a permit; all of it requires a contractor you can verify through your state licensing board.
 

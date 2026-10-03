@@ -16,6 +16,7 @@ faq: [{"question": "Is it ever worth repairing an old AC instead of replacing it
 published_at: "2026-07-03"
 services: ["ac-installation"]
 rendered: true
+author: "Jack Bispo"
 ---
 A new central AC system in Bakersfield typically runs **$5,000–$12,500 installed**, with most homeowners landing somewhere between $7,000 and $10,000 for a standard split-system replacement. That wide range exists because three things move the number dramatically: the size of the equipment your home needs, the efficiency rating you choose, and how much work the installation itself requires. This post breaks down each cost layer so you can walk into any contractor conversation knowing what you're actually paying for, and what's negotiable.
 

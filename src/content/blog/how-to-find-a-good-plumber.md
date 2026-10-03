@@ -17,6 +17,7 @@ faq: [{"question": "How do I check if a plumber is licensed in California?", "an
 published_at: "2026-08-03"
 services: ["emergency-plumbing", "sewer-line-repair", "water-heater-repair"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** A good plumber holds a valid state contractor license (verifiable online in seconds), carries workers' compensation and general liability insurance, provides a written itemized estimate before touching anything, and can explain what they found and why the repair costs what it does. In California, that license is issued by the CSLB. Any contractor who can't hand you a license number, hedges on insurance, or quotes a price verbally and moves on is worth skipping.
 

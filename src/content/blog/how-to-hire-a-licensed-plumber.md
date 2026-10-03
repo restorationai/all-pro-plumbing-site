@@ -17,6 +17,7 @@ faq: [{"question": "How do I verify a plumber's license number in California?", 
 published_at: "2026-10-01"
 services: ["repiping", "gas-line-services", "water-heater-installation"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** In California, verify a plumber's license by searching their name or license number on the CSLB's Check License site. A valid license shows an active C-36 classification (or C-36 as part of a broader classification), a current bond, and workers compensation coverage if they have employees. Skipping this step on permitted work like a repipe, sewer replacement, gas line, or water heater changeout means you have no recourse if the job fails inspection or the work causes damage.
 

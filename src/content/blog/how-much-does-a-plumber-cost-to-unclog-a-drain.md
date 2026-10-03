@@ -17,6 +17,7 @@ faq: [{"question": "How much does it cost to snake a drain in Bakersfield?", "an
 published_at: "2026-08-26"
 services: ["drain-cleaning", "sewer-line-repair"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** A plumber charges roughly $95–$250 to snake a single-fixture drain, $200–$400 for a branch line, and $300–$600 or more to clear a main sewer line. Camera inspections add $150–$350. Hydro jetting runs $350–$850 depending on line length and condition. What you actually pay depends on where the clog is, how bad it is, and whether roots or pipe damage are involved. A written quote before any work starts is the only number that matters.
 

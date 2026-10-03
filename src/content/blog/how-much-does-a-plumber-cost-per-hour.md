@@ -17,6 +17,7 @@ faq: [{"question": "How much does a plumber charge per hour in Bakersfield, CA?"
 published_at: "2026-07-30"
 services: ["emergency-plumbing", "drain-cleaning", "toilet-faucet-repair"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** In Bakersfield and the surrounding Kern County area, plumbers typically charge $85-$175 per hour for standard daytime work, plus a service call or diagnostic fee of $75-$150. After-hours and weekend rates run $150-$250 per hour. Most companies price common jobs flat-rate rather than hourly, so the per-hour rate is a benchmark, not necessarily what shows up on your invoice. Always get a written quote before work starts.
 

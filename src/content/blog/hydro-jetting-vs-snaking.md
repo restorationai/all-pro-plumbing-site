@@ -16,6 +16,7 @@ faq: [{"question": "How long does hydro jetting take compared to snaking?", "ans
 published_at: "2026-06-23"
 services: ["drain-cleaning", "sewer-line-repair"]
 rendered: true
+author: "Jack Bispo"
 ---
 Both methods clear blocked drains, but they work very differently, and choosing the wrong one wastes money or leaves the real problem untouched. The short answer: **snaking** is the right first move for most routine clogs (hair, soap, a wad of grease near the drain opening). **Hydro jetting** is the right call when buildup coats the pipe walls, roots have infiltrated a sewer line, or a snake keeps clearing the same drain every few months without lasting results. Read on to understand exactly when each method earns its place.
 

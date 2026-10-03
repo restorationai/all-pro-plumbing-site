@@ -16,6 +16,7 @@ faq: [{"question": "How long does a cured-in-place pipe liner actually last?", "
 published_at: "2026-07-02"
 services: ["sewer-line-repair"]
 rendered: true
+author: "Jack Bispo"
 ---
 Both trenchless sewer repair methods, pipe lining and pipe bursting, fix a damaged sewer line without digging a trench across your yard. Pipe lining coats the inside of the existing pipe with a resin sleeve that hardens into a smooth new surface. Pipe bursting splits the old pipe outward while simultaneously pulling a brand-new pipe into place. Which one fits your situation depends on the condition of your existing line, the pipe material, and how much diameter you can afford to lose. Here's how each method works, where each one wins, and what questions to ask before you commit.
 

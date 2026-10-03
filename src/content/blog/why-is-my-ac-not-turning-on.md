@@ -17,6 +17,7 @@ faq: [{"question": "Why does my thermostat click but the AC doesn't turn on?", "
 published_at: "2026-09-13"
 services: ["ac-repair"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** When your AC won't turn on, start with the four checks you can do safely: verify the thermostat is set to COOL with the temperature below room temp, check the circuit breaker, look for a tripped condensate float switch, and confirm the outdoor disconnect hasn't been pulled. If all four check out, the most likely culprit is a failed capacitor or a refrigerant issue, both of which need a licensed technician.
 

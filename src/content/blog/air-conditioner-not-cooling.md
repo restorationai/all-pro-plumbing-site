@@ -17,6 +17,7 @@ faq: [{"question": "Why is my AC running but not cooling the house?", "answer": 
 published_at: "2026-08-31"
 services: ["ac-repair", "ac-installation", "ductless-mini-splits"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** When your AC runs but stops cooling, the cause is almost always one of nine things: a wrong thermostat setting, a clogged air filter, a tripped breaker on the outdoor unit, a failed run capacitor, low refrigerant from a leak, a dirty condenser coil, a frozen evaporator coil, a failing compressor, or undersized equipment. The first three you can check in five minutes. The rest need a licensed HVAC technician with gauges and a meter.
 

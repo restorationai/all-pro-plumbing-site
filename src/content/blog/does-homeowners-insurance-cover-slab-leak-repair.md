@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover the cost to jackhammer throu
 published_at: "2026-08-17"
 services: ["slab-leak-repair", "leak-detection"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** Homeowners insurance typically covers two things related to a slab leak: the resulting water damage to floors, walls, and belongings, and the cost to break through concrete to reach the pipe. It does not cover the failed pipe itself, which is considered a maintenance item. Every policy is different, so read your declarations page and call your adjuster before assuming anything is covered or excluded.
 

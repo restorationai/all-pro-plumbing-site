@@ -17,6 +17,7 @@ faq: [{"question": "What is the average cost of an AC service call?", "answer": 
 published_at: "2026-09-03"
 services: ["ac-repair", "ac-installation"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** Most AC repairs fall between $150 and $900, depending on the part. A diagnostic call runs $75-$150. Capacitors and contactors are the cheapest common fixes ($150-$350 installed). Fan motors cost $300-$600. Evaporator or condenser coils run $600-$1,500. A compressor replacement can hit $1,200-$2,500, at which point a new system often makes more financial sense. The repair-vs-replace tipping point is roughly when the repair cost exceeds 50% of what a new unit would cost, especially on a system older than 10 years.
 

@@ -16,6 +16,7 @@ faq: [{"question": "What is considered normal water pressure for a house?", "ans
 published_at: "2026-07-02"
 services: ["repiping", "leak-detection"]
 rendered: true
+author: "Jack Bispo"
 ---
 Low water pressure usually traces back to one of a handful of causes: a partially closed shutoff valve, a clogged aerator, corroded or undersized pipes, a failing pressure regulator, or a leak somewhere in the system. Most of those you can check yourself in under 30 minutes. A few of them, particularly widespread pipe corrosion or a hidden leak, will need a professional. Work through the list below in order, from the easiest fixes to the ones that point toward something more serious.
 

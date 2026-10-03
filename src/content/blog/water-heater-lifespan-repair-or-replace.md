@@ -16,6 +16,7 @@ faq: [{"question": "Does flushing a water heater actually extend its life?", "an
 published_at: "2026-06-18"
 services: ["water-heater-repair", "water-heater-installation"]
 rendered: true
+author: "Jack Bispo"
 ---
 Most tank water heaters last **8 to 12 years**. Tankless units typically reach **15 to 20 years** with proper maintenance. If your water heater is inside that window and showing problems, repair is often worth it. If it's past it, or if the repair cost approaches half the price of a new unit, replacement usually makes more financial sense. The sections below walk through the real signals, the math, and the decision points so you can go into any conversation with a plumber knowing exactly what questions to ask.
 
