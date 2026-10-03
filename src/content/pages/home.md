@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "All Pro Plumbing Heating and Air | Plumbing, Heating & Air in Bakersfield, CA"
-h1: "24/7 Plumbing, Heating and Air in Bakersfield"
-meta_description: "All Pro Plumbing Heating and Air provides 24/7 emergency plumbing plus heating and air conditioning service across Bakersfield and surrounding areas. Call (661) 863-9242."
-primary_keyword: "plumber bakersfield"
-secondary_keywords: ["plumber near me", "emergency plumber bakersfield", "hvac company bakersfield"]
+title: "Emergency Plumbing in Bakersfield, CA | All Pro Plumbing Heating and Air"
+h1: "24/7 Emergency Plumbing in Bakersfield, CA"
+meta_description: "All Pro Plumbing Heating and Air provides emergency plumbing in Bakersfield, CA, answering 24/7. Licensed and insured. Call (661) 863-9242 now."
+primary_keyword: "emergency plumbing bakersfield"
+secondary_keywords: ["best plumber in bakersfield", "plumber bakersfield", "emergency plumbing near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "27633700d677994c"
