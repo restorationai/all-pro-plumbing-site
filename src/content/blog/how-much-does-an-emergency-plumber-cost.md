@@ -103,4 +103,4 @@ All Pro Plumbing Heating and Air dispatches 24 hours a day, 7 days a week. If yo
 
 **About All Pro Plumbing Heating and Air**
 
-All Pro Plumbing Heating and Air is a 24/7 plumbing, heating, and air conditioning service provider based in Bakersfield, CA, serving Kern County and surrounding communities including Oildale, Rosedale, Shafter, Delano, and Taft. Their technicians handle emergency plumbing, burst pipe repair, leak detection, slab leak repair, drain cleaning, water heaters, gas lines, and full HVAC service. For contractor license verification in California, visit the CSLB at cslb.ca.gov.
+All Pro Plumbing Heating and Air is a 24/7 plumbing, heating, and air conditioning service provider based in Bakersfield, CA, serving Kern County and surrounding communities including Oildale, Rosedale, Shafter, Delano, and Taft. Their technicians handle emergency plumbing, burst pipe repair, leak detection, slab leak repair, [drain cleaning](/services/drain-cleaning/), water heaters, gas lines, and full HVAC service. For contractor license verification in California, visit the CSLB at cslb.ca.gov.

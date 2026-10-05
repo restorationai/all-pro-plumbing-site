@@ -72,7 +72,7 @@ A few common mistakes that make drain problems worse:
 
 **Don't reach for chemical drain cleaners as a long-term fix.** Caustic drain cleaners (lye-based or sulfuric acid) can temporarily dissolve organic clogs, but they also attack pipe joints, corrode older cast iron, and leave residue that a plumber then has to work around safely. One use in a pinch is one thing; repeated use on a chronic clog is damaging the pipe.
 
-**Don't run water into a completely backed-up drain.** If a drain is fully stopped and you keep running water, you risk an overflow, especially if the backup is in the main sewer line. Sewage backing up into a tub or floor drain is a much bigger cleanup than a slow sink.
+**Don't run water into a completely backed-up drain.** If a drain is fully stopped and you keep running water, you risk an overflow, especially if the backup is in the main sewer line. [Sewage backing up into a tub or floor drain](/services/emergency-plumbing/) is a much bigger cleanup than a slow sink.
 
 **Don't assume a DIY snake will solve a main-line problem.** Consumer-grade hand augers reach 15–25 feet. A main sewer line runs 50–100 feet to the city connection. If the blockage is deep in the line or at the root intrusion point, a hand snake won't reach it, and you'll lose time you didn't have.
 

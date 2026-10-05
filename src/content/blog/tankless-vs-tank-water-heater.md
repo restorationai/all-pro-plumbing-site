@@ -18,7 +18,7 @@ services: ["water-heater-installation"]
 rendered: true
 author: "Jack Bispo"
 ---
-The short answer: tankless water heaters cost more upfront but can save money over time and never run out of hot water mid-shower. Tank heaters cost less to buy and install, work with any home's existing setup, and are simpler to repair. Which one makes sense depends on how your household uses hot water, what your Bakersfield home's gas or electrical infrastructure looks like, and how long you plan to stay in the house. Neither is universally better, but one is almost certainly a better fit for your situation.
+The short answer: tankless water heaters cost more upfront but can save money over time and never run out of hot water mid-shower. Tank heaters cost less to buy and install, work with any home's existing setup, and are [simpler to repair](/services/water-heater-repair/). Which one makes sense depends on how your household uses hot water, what your Bakersfield home's gas or electrical infrastructure looks like, and how long you plan to stay in the house. Neither is universally better, but one is almost certainly a better fit for your situation.
 
 ## How Each System Actually Works
 
@@ -50,7 +50,7 @@ In a tank heater, scale settles on the bottom of the tank. You've probably heard
 
 In a tankless heater, scale builds up inside the heat exchanger, the narrow passages where water gets heated. This is actually a more acute problem than in a tank, because the exchanger's tight tolerances make it vulnerable to buildup. Manufacturers of tankless units in hard-water areas typically recommend descaling (vinegar flush) every 1 to 2 years. Skipping this maintenance can void warranties and shorten the unit's life significantly.
 
-If you go tankless in Bakersfield, budget for either a whole-home water softener or a dedicated scale-inhibiting filter on the cold inlet. It's not optional, it's part of the real cost of ownership.
+If you go tankless in Bakersfield, budget for either a [whole-home water softener](/services/water-softeners-filtration/) or a dedicated scale-inhibiting filter on the cold inlet. It's not optional, it's part of the real cost of ownership.
 
 ## Which Situations Favor Each Type
 

@@ -28,7 +28,7 @@ If it's 1 a.m. in East Bakersfield and water is spreading across the kitchen flo
 
 Most California plumbers charge an after-hours dispatch or trip fee of $89 to $150 just to send a technician to your door outside normal business hours, separate from the repair itself. On top of that, labor typically runs $150 to $300 an hour, frequently 1.5 to 2 times the daytime rate for nights, weekends, and holidays.
 
-Some companies quote a flat rate per job instead of hourly once they've diagnosed the problem on site, which is often easier to budget around since you know the number before work starts. Either way, a simple after-hours call, like resetting a tripped water heater or freeing a single clogged drain, can land in the $200 to $400 range once the trip fee and an hour of labor are added together. More involved repairs climb from there.
+Some companies quote a flat rate per job instead of hourly once they've diagnosed the problem on site, which is often easier to budget around since you know the number before work starts. Either way, a simple after-hours call, like resetting a tripped water heater or [freeing a single clogged drain](/services/drain-cleaning/), can land in the $200 to $400 range once the trip fee and an hour of labor are added together. More involved repairs climb from there.
 
 ## What actually drives the price up on an emergency call?
 
