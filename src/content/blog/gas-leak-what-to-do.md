@@ -62,7 +62,7 @@ Here's what the repair process typically involves:
 - **Pressure testing.** Before the gas is turned back on, the repaired line is pressure-tested, typically with air or nitrogen, to confirm there are no remaining leaks. This is a code requirement, not optional.
 - **Permit and inspection.** The building department inspector signs off that the work meets current code. That sign-off matters for your homeowner's insurance and for any future sale of the property.
 
-All Pro Plumbing Heating and Air handles gas line repair, replacement, and pressure testing in Bakersfield and the surrounding area. You can learn more about that work on the [gas line services](/gas-line-services) page.
+All Pro Plumbing Heating and Air handles gas line repair, replacement, and pressure testing in Bakersfield and the surrounding area. You can learn more about that work on the [gas line services](/services/gas-line-services/) page.
 
 ## After the Repair: Getting Your Appliances Back Online
 

@@ -99,4 +99,4 @@ Armed with this breakdown, here's how to approach the process:
 
 Bakersfield summers are unforgiving, 100°F days from June through September put serious stress on any system, and an undersized or poorly installed unit will show its weaknesses fast. Getting the sizing and installation right the first time is worth the extra diligence upfront.
 
-If you're at the point where you're ready to talk specifics, system size, efficiency options, or what your existing ductwork can support, All Pro Plumbing Heating and Air serves the Bakersfield area and can walk you through the options for your home. Give them a call at **(661) 863-9242** or explore the [AC installation services](/ac-installation) page to learn more about what the process looks like.
+If you're at the point where you're ready to talk specifics, system size, efficiency options, or what your existing ductwork can support, All Pro Plumbing Heating and Air serves the Bakersfield area and can walk you through the options for your home. Give them a call at **(661) 863-9242** or explore the [AC installation services](/services/ac-installation/) page to learn more about what the process looks like.

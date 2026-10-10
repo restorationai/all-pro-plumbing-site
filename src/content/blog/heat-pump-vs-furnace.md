@@ -34,7 +34,7 @@ The San Joaquin Valley gets cold by California standards, but it rarely gets col
 
 More importantly, Bakersfield summers are brutal. Highs above 100°F are routine from June through September. A heat pump is also an air conditioner, and its cooling SEER2 rating matters just as much as its heating performance here. Replacing a gas furnace and a separate aging AC with a single heat pump system means you're sizing and installing one piece of equipment instead of two, and the cooling efficiency of a current-generation heat pump (many rated 18–22 SEER2) is meaningfully better than older split systems still running in a lot of valley homes.
 
-If you're weighing options for a full system replacement, All Pro Plumbing Heating and Air's [heat pump services](/heat-pump-services) cover sizing, installation, and the refrigerant handling that California requires.
+If you're weighing options for a full system replacement, All Pro Plumbing Heating and Air's [heat pump services](/services/heat-pump-services/) cover sizing, installation, and the refrigerant handling that California requires.
 
 ## The Real Cost Comparison: Gas vs. Electricity in the Valley
 
@@ -61,7 +61,7 @@ Heat pumps aren't the right answer for every situation. A furnace is worth serio
 - **Your home uses propane** and you're not near a gas main. Propane prices are volatile and typically make heat pump economics even more favorable, but if your setup is already paid for and you heat infrequently, a furnace replacement may still be simpler.
 - **You're in a commercial or industrial space** with very high heating loads. Large-tonnage heat pumps exist, but gas often wins on first cost and output at scale.
 
-All Pro's [furnace installation](/furnace-installation) team can walk through the load calculation for your specific square footage, insulation level, and duct condition if you're not sure which direction makes sense.
+All Pro's [furnace installation](/services/furnace-installation/) team can walk through the load calculation for your specific square footage, insulation level, and duct condition if you're not sure which direction makes sense.
 
 ## What to Look at Before You Decide
 

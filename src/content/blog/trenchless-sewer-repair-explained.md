@@ -84,4 +84,4 @@ Either way, the finished line should be smooth, properly sloped, and free of vis
 
 ---
 
-If you're dealing with slow drains, recurring root clogs, sewage odors in the yard, or a camera report showing a deteriorated line, the next step is a professional inspection to find out which repair path actually fits your pipe. All Pro Plumbing Heating and Air serves Bakersfield and the surrounding area, call **(661) 863-9242** to schedule a [sewer line evaluation](/sewer-line-repair) and get a clear picture of what's going on underground before you decide anything.
+If you're dealing with slow drains, recurring root clogs, sewage odors in the yard, or a camera report showing a deteriorated line, the next step is a professional inspection to find out which repair path actually fits your pipe. All Pro Plumbing Heating and Air serves Bakersfield and the surrounding area, call **(661) 863-9242** to schedule a [sewer line evaluation](/services/sewer-line-repair/) and get a clear picture of what's going on underground before you decide anything.

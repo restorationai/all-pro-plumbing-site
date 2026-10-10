@@ -71,7 +71,7 @@ When you call, tell the dispatcher:
 
 That information helps the plumber arrive with the right parts and equipment instead of making a second trip.
 
-All Pro Plumbing Heating and Air handles [burst pipe repair](/burst-pipe-repair) and [emergency plumbing](/emergency-plumbing) calls in Bakersfield and the surrounding Kern County area. Reach them at **(661) 863-9242**.
+All Pro Plumbing Heating and Air handles [burst pipe repair](/services/burst-pipe-repair/) and [emergency plumbing](/services/emergency-plumbing/) calls in Bakersfield and the surrounding Kern County area. Reach them at **(661) 863-9242**.
 
 ## The Recovery Process After the Leak Is Stopped
 
