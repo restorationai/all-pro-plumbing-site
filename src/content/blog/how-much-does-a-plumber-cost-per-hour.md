@@ -85,7 +85,7 @@ If a company won't give you a written quote before starting, that's a reason to 
 
 For any contractor you're considering, you can verify their license status on the [California Contractors State License Board (CSLB) lookup tool at cslb.ca.gov](https://www.cslb.ca.gov/). Enter the company name or license number to confirm the license is active, the classification matches the work (C-36 for plumbing), and there are no disciplinary actions. This takes about two minutes and is worth doing for any job over a few hundred dollars.
 
-The [Bureau of Labor Statistics](https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm) tracks median plumber wages nationally, which gives context for why labor rates are what they are, experienced journeyman plumbers earn well above median wage in California's high cost-of-living market.
+The Bureau of Labor Statistics tracks median plumber wages nationally, which gives context for why labor rates are what they are, experienced journeyman plumbers earn well above median wage in California's high cost-of-living market.
 
 ## What does an emergency plumber cost?
 

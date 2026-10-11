@@ -71,7 +71,7 @@ But the 50% rule is a starting point, not the whole answer. Here are the other f
 
 **Refrigerant type.** If your system uses R-22, replacement is almost always the right call for anything beyond a minor repair. R-22 production ended in 2020 under the [EPA's phaseout program](https://www.epa.gov/ods-phaseout), and remaining supplies are expensive. A new system uses current refrigerants and is eligible for efficiency rebates.
 
-**Efficiency rating.** Older systems often run at 10-12 SEER. Current minimum efficiency in most of the country is 14 SEER2 (higher in southern climate zones). A new [ENERGY STAR-certified](https://www.energystar.gov/products/heating_cooling) system at 16-18 SEER2 can meaningfully reduce your cooling bill, which offsets some of the replacement cost over time.
+**Efficiency rating.** Older systems often run at 10-12 SEER. Current minimum efficiency in most of the country is 14 SEER2 (higher in southern climate zones). A new [ENERGY STAR-certified](https://www.energystar.gov/saveathome/heating-cooling) system at 16-18 SEER2 can meaningfully reduce your cooling bill, which offsets some of the replacement cost over time.
 
 **Repair history.** If this is the second or third significant repair in three years, the system is telling you something. A pattern of failures usually means the system is at end of life across multiple components, not just the one that failed today.
 

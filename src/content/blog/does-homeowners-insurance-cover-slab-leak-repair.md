@@ -25,7 +25,7 @@ You noticed a warm spot on your tile floor, your water bill jumped $80 last mont
 
 ## Does homeowners insurance cover slab leaks?
 
-Most standard homeowners policies cover sudden and accidental water damage from a slab leak, plus the cost to access the broken pipe, but they do not pay to replace the pipe that failed. This split is sometimes called "access and resulting damage" coverage. The logic: your policy insures against damage to your home, not against the gradual wear of your plumbing. The [Insurance Information Institute](https://www.iii.org/article/what-does-a-standard-homeowners-policy-cover) describes this as a standard distinction in HO-3 policies, which cover sudden and accidental discharge but exclude maintenance-related deterioration.
+Most standard homeowners policies cover sudden and accidental water damage from a slab leak, plus the cost to access the broken pipe, but they do not pay to replace the pipe that failed. This split is sometimes called "access and resulting damage" coverage. The logic: your policy insures against damage to your home, not against the gradual wear of your plumbing. The [Insurance Information Institute](https://www.iii.org/article/what-is-covered-by-standard-homeowners-insurance) describes this as a standard distinction in HO-3 policies, which cover sudden and accidental discharge but exclude maintenance-related deterioration.
 
 In practice, that means:
 

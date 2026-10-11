@@ -61,7 +61,7 @@ Open the box and check that the disconnect block is seated fully (if it's a pull
 
 If you can hear the outdoor unit trying to start (a hum or buzz) but the fan blade isn't spinning, a failed run capacitor is the most likely cause. The capacitor is a cylindrical component inside the condenser cabinet that stores an electrical charge and gives the compressor and fan motors the jolt they need to start. When it fails, the motor hums under load but can't overcome the starting torque.
 
-Capacitors hold a significant electrical charge even when the unit is powered off. Do not open the condenser cabinet or touch any internal components. This is a technician-only repair. The good news: capacitor replacement is one of the faster, less expensive AC repairs, typically completed in a single visit. The [U.S. Department of Energy notes](https://www.energy.gov/energysaver/central-air-conditioning) that keeping your AC well-maintained extends equipment life and avoids exactly these kinds of component failures.
+Capacitors hold a significant electrical charge even when the unit is powered off. Do not open the condenser cabinet or touch any internal components. This is a technician-only repair. The good news: capacitor replacement is one of the faster, less expensive AC repairs, typically completed in a single visit. The [U.S. Department of Energy notes](https://www.energy.gov/save/home-upgrades) that keeping your AC well-maintained extends equipment life and avoids exactly these kinds of component failures.
 
 Other technician-only causes of a no-start include:
 

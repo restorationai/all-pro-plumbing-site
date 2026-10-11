@@ -59,7 +59,7 @@ Kern County's combination of agricultural dust, cottonwood season, and triple-di
 
 A technician will shut the unit down, remove the top panel, and wash the coil from the inside out with a low-pressure coil cleaner and water. Do not use a pressure washer on condenser fins. The aluminum fins bend easily and a bent fin is a blocked fin. After a proper cleaning, a system that was struggling to reach 78 degrees on a hot afternoon will often hit setpoint again without any other repair.
 
-For most Bakersfield homes, a condenser coil cleaning once a year before peak summer is the single best maintenance investment you can make. The [U.S. Department of Energy](https://www.energy.gov/energysaver/air-conditioning) estimates that a well-maintained AC system uses significantly less energy than a neglected one.
+For most Bakersfield homes, a condenser coil cleaning once a year before peak summer is the single best maintenance investment you can make. The [U.S. Department of Energy](https://www.energy.gov/save/home-upgrades) estimates that a well-maintained AC system uses significantly less energy than a neglected one.
 
 **7. Frozen evaporator coil.** Ice on the indoor coil blocks airflow completely. The air coming out of the vents will drop to almost nothing, or will feel slightly cool but with very little volume. Causes include a clogged filter (see above), low refrigerant, or a failing blower motor. If you see ice on the refrigerant line where it enters the air handler, turn the system off and switch the fan to ON to thaw the coil. Do not run the compressor while the coil is frozen. Once thawed, replace the filter and restart. If it freezes again, call for a refrigerant check.
 
