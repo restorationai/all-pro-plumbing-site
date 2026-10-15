@@ -44,9 +44,11 @@ export const brand = {
   sameAsUrls: [] as string[], // 2026-09-13: purged 8 wrong-entity URLs (Oceanside/Ontario/St George same-name companies); nap_audit rows marked wrong_entity; nightly sync rebuilds from verified-ours only
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
-  gbpRatingValue: "",
-  gbpReviewCount: "",
-  gbpReviews: [] as { author: string; rating: number; text: string; when: string }[],
+  gbpRatingValue: "5.0",
+  gbpReviewCount: "1",
+  gbpReviews: [
+    { author: "Shana", rating: 5, text: "I called All Pro Plumbing for a slow shower draining shower drain. Great service fair prices and very knowledgeable plumbers. Highly recommended!", when: "October 2026" },
+  ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 plumbing, heating and air service in Bakersfield, CA.",
   ctaLabel: "24/7 Emergency Line",
 } as const;
