@@ -1,8 +1,14 @@
 {
+  "ac-installation": [
+    "Ductless AC Installation"
+  ],
   "burst-pipe-repair": [
     "Burst Pipe Water Damage",
     "Frozen Pipe Water Damage",
     "Pipe Leak Water Damage"
+  ],
+  "ductwork": [
+    "Ductwork Installation"
   ],
   "leak-detection": [
     "Appliance Leak Cleanup"
