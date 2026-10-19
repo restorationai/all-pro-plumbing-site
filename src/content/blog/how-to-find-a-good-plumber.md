@@ -51,7 +51,7 @@ Before signing anything, read the change-order clause. A legitimate estimate wil
 
 ## How many plumbing quotes should you get?
 
-For non-emergency repairs under $500, one or two quotes is usually enough. For larger jobs (a water heater replacement, a sewer line repair, a whole-house repipe), get at least three written estimates.
+For non-emergency repairs under $500, one or two quotes is usually enough. For larger jobs (a [water heater replacement](/services/water-heater-installation/), a [sewer line repair](/services/sewer-line-repair/), a [whole-house repipe](/services/repiping/)), get at least three written estimates.
 
 Three quotes let you see the middle of the market. The lowest bid is worth scrutinizing: is it lower because they're more efficient, or because they're cutting corners on materials or skipping permits? The highest bid deserves the same question in reverse. Ask each contractor to walk you through their scope line by line. The one who can explain their numbers clearly is usually the one who knows what they're doing.
 
