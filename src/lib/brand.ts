@@ -47,7 +47,7 @@ export const brand = {
   gbpRatingValue: "5.0",
   gbpReviewCount: "1",
   gbpReviews: [
-    { author: "Shana", rating: 5, text: "I called All Pro Plumbing for a slow shower draining shower drain. Great service fair prices and very knowledgeable plumbers. Highly recommended!", when: "October 2026" },
+    { author: "Neri", rating: 5, text: "Great service, and competitive plumbing prices.", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 plumbing, heating and air service in Bakersfield, CA.",
   ctaLabel: "24/7 Emergency Line",
