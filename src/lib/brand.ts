@@ -45,8 +45,9 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "1",
+  gbpReviewCount: "2",
   gbpReviews: [
+    { author: "Brittany", rating: 5, text: "All Pro Plumbing was amazing the tech was super nice and got my toilet working again!! They should have more companies out there like this one he gave great customer service!", when: "October 2026" },
     { author: "Neri", rating: 5, text: "Great service, and competitive plumbing prices.", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 plumbing, heating and air service in Bakersfield, CA.",
