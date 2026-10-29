@@ -45,8 +45,9 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "2",
+  gbpReviewCount: "3",
   gbpReviews: [
+    { author: "Karen", rating: 5, text: "We needed restoration repair for our bathroom. I called and spoke with Jack, the owner, and he was prompt, professional, and provided a very reasonable estimate. The crew was on time, explained everything to us and did a great job. You can’t even tell our bathroom had any water damage. Thank you!", when: "October 2026" },
     { author: "Brittany", rating: 5, text: "All Pro Plumbing was amazing the tech was super nice and got my toilet working again!! They should have more companies out there like this one he gave great customer service!", when: "October 2026" },
     { author: "Neri", rating: 5, text: "Great service, and competitive plumbing prices.", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
