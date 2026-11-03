@@ -22,8 +22,6 @@
 // brand.response_minutes (the claims_lint gate) and is absent on older sites.
 // The 24/7 test is the same regex as TrustStrip / Header / claims_lint.
 //
-// LIGHT-THEME VARIANT (astro-starter-light overlay): same logic as the
-// starter file, light surfaces only. Keep the two in sync.
 // On the homepage this replaces ReviewsStrip (same rating + snippets job, plus
 // the credentials), so review quotes are not stacked three times.
 // AggregateRating schema is NOT emitted here: schema.ts already embeds it in
@@ -37,7 +35,7 @@ const TOP_RATED_MIN_REVIEWS = 20;
 const B = brand as unknown as Record<string, unknown>;
 const str = (v: unknown) => String(v ?? "").trim();
 
-const city = str(brand.primaryCity);
+const city = str((brand as { homeRegion?: string }).homeRegion) || str(brand.primaryCity);
 const name = str(brand.displayName);
 const trade = str(B.tradeNoun) || "restoration";
 
@@ -47,7 +45,9 @@ const ratingNum = parseFloat(rating);
 const countNum = parseInt(count.replace(/[^0-9]/g, ""), 10);
 const hasRating = ratingNum > 0 && countNum > 0;
 const topRated = hasRating && ratingNum >= TOP_RATED_MIN_RATING && countNum >= TOP_RATED_MIN_REVIEWS;
-const stars = hasRating ? Math.min(5, Math.round(ratingNum)) : 0;
+// Always five stars under the subtext (Santino 2026-10-12: "never show 4
+// stars"); the real rating and review count are stated in the lead text.
+const stars = hasRating ? 5 : 0;
 const reviewsUrl = brand.googleCid
   ? `https://www.google.com/maps?cid=${brand.googleCid}`
   : brand.placeId
@@ -89,14 +89,17 @@ const short = str(brand.shortName);
 // choose NARESTCO" is 42 characters and still ran three lines on a phone)
 const fits = (n: string) => n.length <= 24;
 const headName = fits(name) ? name : short && fits(short) ? short : "us";
+// Awards moved OUT of this section (Santino 11-01): they have their own
+// section right after it (HomeAwards.astro), never between the rating
+// line and the review cards.
 ---
 
 {show && (
-  <section class="bg-dark-50 py-20 border-y border-dark/10 text-dark-900" aria-labelledby="home-proof-heading">
+  <section class="bg-dark py-20 border-y border-white/10 text-white" aria-labelledby="home-proof-heading">
     <div class="container-wide">
       <div class="max-w-4xl mx-auto text-center">
         <div class="eyebrow">Proof, not promises</div>
-        <h2 id="home-proof-heading" class="text-base min-[360px]:text-xl sm:text-3xl md:text-4xl text-balance font-black uppercase tracking-tight text-dark-900 mb-4">
+        <h2 id="home-proof-heading" class="text-base min-[360px]:text-xl sm:text-3xl md:text-4xl text-balance font-black uppercase tracking-tighter text-white mb-4">
           Why {city} homeowners choose {headName}
         </h2>
         <script is:inline>
@@ -121,9 +124,9 @@ const headName = fits(name) ? name : short && fits(short) ? short : "us";
             }
           })();
         </script>
-        <p class="text-lg text-dark-700 m-0">{lead}</p>
+        <p class="text-lg text-white/80 m-0">{lead}</p>
         {stars > 0 && (
-          <div class="flex justify-center gap-1 text-amber-500 mt-4" aria-hidden="true">
+          <div class="flex justify-center gap-1 text-amber-400 mt-4" aria-hidden="true">
             {Array.from({ length: stars }).map(() => <Star size={22} class="fill-current" />)}
           </div>
         )}
@@ -132,12 +135,12 @@ const headName = fits(name) ? name : short && fits(short) ? short : "us";
       {reviews.length > 0 && (
         <div class="grid gap-6 md:grid-cols-3 max-w-6xl mx-auto mt-10">
           {reviews.map((r) => (
-            <figure class="m-0 p-6 rounded-lg border border-dark/10 bg-white flex flex-col gap-3">
-              <div class="flex gap-1 text-amber-500" role="img" aria-label={`${r.rating} out of 5 stars`}>
+            <figure class="m-0 p-6 rounded-lg border border-white/10 bg-white/5 flex flex-col gap-3">
+              <div class="flex gap-1 text-amber-400" role="img" aria-label={`${r.rating} out of 5 stars`}>
                 {Array.from({ length: Math.min(5, r.rating) }).map(() => <Star size={14} class="fill-current" />)}
               </div>
-              <blockquote class="m-0 p-0 border-0 text-dark-700 text-sm leading-relaxed">“{r.quote}”</blockquote>
-              <figcaption class="text-dark-500 text-xs font-bold uppercase tracking-widest mt-auto">
+              <blockquote class="m-0 p-0 border-0 text-white/85 text-sm leading-relaxed">“{r.quote}”</blockquote>
+              <figcaption class="text-white/60 text-xs font-bold uppercase tracking-widest mt-auto">
                 {r.author}, Google review{r.when ? ` · ${r.when}` : ""}
               </figcaption>
             </figure>
