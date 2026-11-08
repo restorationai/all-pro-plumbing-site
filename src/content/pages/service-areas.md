@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | All Pro Plumbing Heating and Air Plumbing, Heating & Air"
+title: "Service Areas | All Pro Plumbing Heating and Air"
 h1: "Areas We Serve"
 meta_description: "All Pro Plumbing Heating and Air provides plumbing, heating, and air conditioning service across Bakersfield and the surrounding region. Find your city."
 primary_keyword: "all pro plumbing heating and air service areas"
