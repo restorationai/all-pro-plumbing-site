@@ -52,11 +52,11 @@ Greer's Banner Air holds a 4.8-star rating from 211 reviews and operates as an H
 
 | Company | Google Rating | Reviews | 24/7 Emergency | Licensed |
 |---|---|---|---|---|
-| All Pro Plumbing Heating and Air | - | - | Yes | Yes (CSLB #960566) |
-| GREAT DANE HVAC LLC | 4.9 | 52 | - | - |
-| Central California Air Inc. | 5.0 | 194 | - | - |
-| Power & Performance Air | 4.8 | 279 | - | - |
-| Greer's Banner Air | 4.8 | 211 | - | - |
+| All Pro Plumbing Heating and Air | 5.0 | 6 | Yes | Yes (CSLB #960566) |
+| GREAT DANE HVAC LLC | 4.9 | 52 | Not listed | Not listed |
+| Central California Air Inc. | 5.0 | 194 | Not listed | Not listed |
+| Power & Performance Air | 4.8 | 279 | Not listed | Not listed |
+| Greer's Banner Air | 4.8 | 211 | Not listed | Not listed |
 
 ## How Do I Vet a Furnace Repair Company in Bakersfield? (CSLB License, C-20)
 
